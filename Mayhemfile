@@ -1,0 +1,5 @@
+project: gots
+target: gots
+cmds:
+  - cmd: /cli -f @@
+    env: {}
